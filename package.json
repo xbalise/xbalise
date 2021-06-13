@@ -1,0 +1,19 @@
+{
+  "name": "rdv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.3.1"
+  }
+}
